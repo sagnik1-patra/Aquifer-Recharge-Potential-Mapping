@@ -1,0 +1,8 @@
+{
+    "mse": 0.00019567607624036655,
+    "r2_score": 0.9885628804376675,
+    "historical_rainfall_summary": {
+        "long_term_mean": 344.60069986797026,
+        "long_term_std": 589.4144604169021
+    }
+}

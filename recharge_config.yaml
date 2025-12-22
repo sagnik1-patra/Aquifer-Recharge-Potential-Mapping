@@ -1,0 +1,8 @@
+features:
+- district_mean_rainfall
+max_depth: 10
+model: RandomForestRegressor
+n_estimators: 300
+project: AI-Based Aquifer Recharge Potential Mapping
+scaler: StandardScaler
+target: recharge_index

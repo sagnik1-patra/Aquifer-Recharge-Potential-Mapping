@@ -1,0 +1,6 @@
+{
+    "train_r2": 0.9997353281876721,
+    "test_r2": 0.9901518176654479,
+    "best_n_estimators": 191,
+    "best_max_depth": 15
+}
